@@ -1,3 +1,7 @@
+# DISCLAIMER - THIS IS A FORK
+
+This fork is compatible with Cloudera's CDP 7.1.4 Kafka Connect distribution.
+
 # Kafka-connect-elasticsearch-source
 
 [![YourActionName Actions Status](https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source/actions)
